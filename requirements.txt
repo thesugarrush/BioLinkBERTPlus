@@ -1,0 +1,13 @@
+jupyterlab
+notebook
+matplotlib
+nltk
+numpy
+transformers
+datasets==1.11.0
+fairscale==0.4.0
+wandb
+scikit-learn
+seqeval
+torch==1.10.1+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+#torch==1.10.1
